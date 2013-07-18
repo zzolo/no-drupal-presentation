@@ -1,0 +1,17 @@
+body {
+  font-family: 'Helvetica';
+  background: #FFFFFF;
+  color: #222222;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.title {
+  color: #35BB0C;
+}
+
+a {
+  background: none;
+  color: #8CBB0C;
+}

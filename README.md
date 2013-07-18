@@ -1,4 +1,3 @@
-no-drupal-presentation
-======================
+# No Drupal
 
 a presentation about why not to use Drupal
