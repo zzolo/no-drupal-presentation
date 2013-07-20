@@ -4,14 +4,30 @@ body {
   color: #222222;
   text-align: center;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center center;
+  background-size: 100%;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 50%;
 }
 
 .title {
   color: #35BB0C;
 }
 
+.else {
+  color: #BB0C8C;
+}
+
 a {
   background: none;
   color: #8CBB0C;
+}
+
+em {
+  color: #454549;
+}
+
+.code {
 }
